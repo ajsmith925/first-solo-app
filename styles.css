@@ -1,0 +1,38 @@
+body {
+    background: hsla(278, 100%, 36%, 1)
+}
+
+body {
+    background: linear-gradient(90deg, hsla(278, 100%, 36%, 1) 0%, hsla(263, 60%, 48%, 1) 0.1%, hsla(239, 53%, 59%, 1) 0.2%, hsla(213, 64%, 59%, 1) 0.3%, hsla(203, 69%, 59%, 1) 0.4%, hsla(194, 73%, 59%, 1) 0.5%, hsla(188, 70%, 61%, 1) 0.6%, hsla(180, 66%, 63%, 1) 0.7%, hsla(171, 80%, 69%, 1) 0.8%, hsla(163, 100%, 75%, 1) 0.9%);
+}
+
+body {
+    background: -moz-linear-gradient(90deg, hsla(278, 100%, 36%, 1) 0%, hsla(263, 60%, 48%, 1) 0.1%, hsla(239, 53%, 59%, 1) 0.2%, hsla(213, 64%, 59%, 1) 0.3%, hsla(203, 69%, 59%, 1) 0.4%, hsla(194, 73%, 59%, 1) 0.5%, hsla(188, 70%, 61%, 1) 0.6%, hsla(180, 66%, 63%, 1) 0.7%, hsla(171, 80%, 69%, 1) 0.8%, hsla(163, 100%, 75%, 1) 0.9%);
+}
+
+body {
+    background: -webkit-linear-gradient(90deg, hsla(278, 100%, 36%, 1) 0%, hsla(263, 60%, 48%, 1) 0.1%, hsla(239, 53%, 59%, 1) 0.2%, hsla(213, 64%, 59%, 1) 0.3%, hsla(203, 69%, 59%, 1) 0.4%, hsla(194, 73%, 59%, 1) 0.5%, hsla(188, 70%, 61%, 1) 0.6%, hsla(180, 66%, 63%, 1) 0.7%, hsla(171, 80%, 69%, 1) 0.8%, hsla(163, 100%, 75%, 1) 0.9%);
+}
+
+body h1 {
+    display: flex;
+    justify-content: center;
+}
+/* 
+#articles {
+    display: flex;
+    justify-content: center;
+}
+
+#images {
+    display: flex;
+    justify-content: center;
+} */
+
+
+/* #root {
+    display: flex;
+    justify-content: center;
+} */
+
+/* filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#7400b8", endColorstr="#6930c3", GradientType=1 ); */
