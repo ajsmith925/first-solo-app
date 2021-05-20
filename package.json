@@ -15,7 +15,10 @@
   "dependencies": {
     "html-webpack-plugin": "^5.3.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-axios": "^2.0.5",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "regenerator-runtime": "^0.13.7"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",
